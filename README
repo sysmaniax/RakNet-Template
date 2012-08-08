@@ -1,0 +1,10 @@
+File: README
+
+Please note:
+- First get RakNet and compile DLLs Debug/Release Versions.
+- After that set your paths to the sources, includes, executables and libs
+- Check Directories and additional lib files that must be included into the linker settings
+- Run this example and all is fine
+
+Date: Aug 08, 2012
+RakNet can be obtained here: http://www.jenkinssoftware.com/
